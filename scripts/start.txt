@@ -1,0 +1,7 @@
+// Стартовый скрипт эмулятора
+ls
+cd folder1
+head -n 2 notes.txt
+who
+rm notes.txt
+ls
