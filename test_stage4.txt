@@ -1,0 +1,4 @@
+ls
+cd docs
+head test.txt
+who
